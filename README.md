@@ -2,7 +2,7 @@
 
 Does anxiety independently raise healthcare spending among Medicare beneficiaries with cardiovascular disease — and where does the extra cost go?
 
-This project analyzes CMS Medicare claims data to examine the relationship between anxiety and healthcare spending across three major cardiovascular conditions: **hypertension**, **coronary artery disease (CAD)**, and **atrial fibrillation (AFib)**. It was completed as a Health Affairs DataWatch-style white paper assignment for my healthcare analytics program.
+This project analyzes CMS Medicare claims data to examine the relationship between anxiety and healthcare spending across three major cardiovascular conditions: **hypertension**, **coronary artery disease (CAD)**, and **atrial fibrillation (AFib)**. It was completed as a Health Affairs DataWatch-style white paper assignment for my Healthcare Analytics course.
 
 ## Key Findings
 
